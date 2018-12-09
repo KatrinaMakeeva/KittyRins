@@ -25,6 +25,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Низкая зп");
             }
+            Console.WriteLine("Спасибо за использование программы");
             Console.ReadKey();
 
 
